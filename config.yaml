@@ -1,0 +1,4 @@
+yandex.ru:     [22, 80, 443]
+google.com:    [22, 80, 443]
+habr.com:      [22, 80, 443]
+youtube.com:   [22, 80, 443, 6443]
